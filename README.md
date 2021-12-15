@@ -12,6 +12,6 @@
 Hey,
 
 Thanks for taking your time to get to know me a bit better.
-I am a 20yr old guy studying software engineering and management at the Univercity of Gothenburg. Programming and software development stared out as a hobby but is now what I do most of my time awake. 
+I am a 20yr old guy studying software engineering and management at the Univercity of Gothenburg. Programming and software development started out as a hobby but is now what I do most of my time awake. 
 
-When I'm not working/studying you might find me playing online games with friends or on a bike outdoors in rain. Besides that, I spend a lot of my time on [*Twitch*](https://twitch.tv/), both as a viewer and streamer. I have been playing around alot with their API in a few programming projects. Sadly I just have a initial version of a [Chat Bot](https://github.com/Caisesiume/CaiBot) public on GitHub.
+When I'm not working/studying you might find me playing online games with friends or on a bike outdoors in the rain. Besides that, I spend a lot of my time on [*Twitch*](https://twitch.tv/), both as a viewer and streamer. I have also been playing around alot with their API in a few differnt programming projects. Sadly I just have a initial version of a [Chat Bot](https://github.com/Caisesiume/CaiBot) public on GitHub.
