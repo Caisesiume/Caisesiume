@@ -2,7 +2,7 @@
 
 **Hi there 👋**
 
-Thanks for taking your time to get to know me a bit better.
+Cool that you are here! Let me tell you a bit about myself. <br>
 I am a 20yr old guy from Sweden who is studying Software Engineering and Management at the University of Gothenburg. For me, and probably a lot of other people, programming and software development started out as a hobby but is now what I do most of my time awake. 
 
 When I'm not working/studying you might find me playing online games with friends or on a bike outdoors in the rain. Besides that, I spend a lot of my time on [**Twitch**](https://twitch.tv/) both as a viewer and streamer. Because of that, I have been playing around alot with their API in a few differnt programming projects. For now, I only have an early state version of a [Chat Bot](https://github.com/Caisesiume/CaiBot) public on GitHub, but more will come.
