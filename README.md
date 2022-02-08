@@ -18,7 +18,8 @@ I have experience with graphic design and animations from previous studies. I fi
 
 ## The programmig me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caisesiume&layout=compact&custom_title=Caisesiume's%20Languages&theme=synthwave&border_color=24244f&border_radius=2em&langs_count=3&title_color=d9b74c&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caisesiume&custom_title=Caisesiume's%20Languages&theme=synthwave&border_color=24244f&border_radius=2em&langs_count=10&title_color=d9b74c)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caisesiume&show_icons=true&theme=synthwave&hide=contribs,issues&count_private=true&border_color=24244f&border_radius=2em&title_color=d9b74c&count_private=true)
 
 | Most experiece |
