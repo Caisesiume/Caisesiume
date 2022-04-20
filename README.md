@@ -16,7 +16,7 @@ I have experience with graphic design and animations from previous studies. I fi
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" alt="Mail logo" width="28"/> **twitchcaisesiume@gmail.com**
 
-## The programmig me
+## The programming me
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caisesiume&custom_title=Caisesiume's%20Languages&theme=synthwave&border_color=24244f&border_radius=2em&langs_count=10&title_color=d9b74c)
 
