@@ -1,6 +1,6 @@
 ## **Caisesiume**
 
-**Hi there 👋 **
+**Hi there 👋**
 
 Cool that you are here! Let me tell you a bit about myself. <br>
 I am a 20yr old guy from Sweden who is studying Software Engineering and Management at the University of Gothenburg. People describe me as a tall, smart, and down to earth guy. For me, and probably a lot of other people, programming and software development started out as a hobby but is now what I do most of my time awake. 
