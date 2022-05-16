@@ -17,7 +17,7 @@ I am a 20yr old guy from Sweden who is studying Software Engineering and Managem
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caisesiume&custom_title=Caisesiume's%20Languages&theme=synthwave&border_color=24244f&border_radius=1.2em&langs_count=10&title_color=d9b74c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caisesiume&custom_title=Caisesiume's%20Languages&theme=synthwave&border_color=24244f&border_radius=1.2em&langs_count=8&title_color=d9b74c&hide=C%2b%2b)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caisesiume&show_icons=true&theme=synthwave&hide=contribs,issues&count_private=true&border_color=24244f&border_radius=1.2em&title_color=d9b74c&count_private=true)
   
