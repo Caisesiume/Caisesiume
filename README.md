@@ -10,8 +10,7 @@
   <summary align="center">About me </summary>
   <hr>
   
-  <p align="center">I am a 20yr old Swedish guy who is studying Software Engineering and Management. People describe me as tall, smart, and down to earth. For me, and probably a lot of other people, programming and software development started out as a hobby but is now what I do most of my time awake.<br>
-  When I'm not working/studying you might find me playing online games with friends or on a bike outdoors in the rain. Besides that, I spend a lot of my time on <a href="https://twitch.tv/">Twitch</a> both as a viewer and streamer. I have also been playing around alot with Twitch API in a few differnt programming projects. I have one project public here on GitHub. It is an early state version of my <a href="https://github.com/Caisesiume/CaiBot">Chat Bot</a> I have developed.</p>
+  <p align="center">I am a Swedish guy who is studying Software Engineering and Management. People describe me as tall, smart, and down to earth. For me, and probably a lot of other people, programming and software development started out as a hobby but is now what I do most of my time awake. When I'm not working/studying you might find me playing online games with friends or on a bike outdoors in the rain. Besides that, I spend a lot of my time on <a href="https://twitch.tv/">Twitch</a> both as a viewer and streamer.
 
   <p align="center">Besides programming I have experience with graphic design and animations from previous studies. I find it super fun so it's not uncommon that I do a few fun side projects in that field every now and again. Adobe Photoshop and Adobe After Effects are the two softwares I have worked with the most. Graphic design/animation or just art in general is something I have always found to be super interesting and the dream would be to somehow combine software development with graphic design/animation.</p>
 
