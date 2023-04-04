@@ -11,9 +11,9 @@
   <summary align="center">About me </summary>
   <hr>
   
-  <p align="center">I am a Swedish guy who is studying Software Engineering and Management. People describe me as tall, smart, and down to earth. For me, and probably a lot of other people, programming and software development started out as a hobby but is now what I do most of my time awake. When I'm not working/studying you might find me playing online games with friends or on a bike outdoors in the rain. Besides that, I spend a lot of my time on <a href="https://twitch.tv/">Twitch</a> both as a viewer and streamer.
+  <p align="center"> I'm a freelancing Software Engineer from Sweden. I have a BSc degree in Software Engineering and Management. People describe me as creative, smart, and down to earth. For me, and probably a lot of other people, programming and software development started out as a hobby but is now what I do most of my time awake. When I'm not working/studying you might find me playing online games with friends or on a bike outdoors in the rain. Besides that, I spend a lot of my time on <a href="https://twitch.tv/">Twitch</a> both as a viewer and streamer.
 
-  <p align="center">Besides programming I have experience with graphic design and animations from previous studies. I find it super fun so it's not uncommon that I do a few fun side projects in that field every now and again. Adobe Photoshop and Adobe After Effects are the two softwares I have worked with the most. Graphic design/animation or just art in general is something I have always found to be super interesting and the dream would be to somehow combine software development with graphic design/animation.</p>
+  <p align="center">Besides programming I have experience with graphic design and animations from prior to my BSc studies. I find it super fun so it's not uncommon that I do a few fun side projects in that field every now and again. Adobe Photoshop and Adobe After Effects are the two softwares I have worked with the most. Graphic design/animation or just art in general is something I have always found to be super interesting and the dream would be to somehow combine software development with graphic design/animation.</p>
 
   <hr>
 </details>
@@ -25,9 +25,9 @@
   
   <hr>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caisesiume&custom_title=Caisesiume's%20Languages&theme=synthwave&border_color=24244f&border_radius=1.2em&langs_count=8&title_color=d9b74c&hide=C%2b%2b,SCSS,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caisesiume&custom_title=Caisesiume's%20Languages&theme=synthwave&border_color=24244f&border_radius=1.2em&langs_count=6&title_color=d9b74c&hide=C%2b%2b,SCSS,CSS)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caisesiume&show_icons=true&theme=synthwave&hide=contribs,issues&count_private=true&border_color=24244f&border_radius=1.2em&title_color=d9b74b&count_private=true)
+![Caisesiume's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caisesiume&show_icons=true&theme=synthwave&hide=contribs,issues&count_private=true&border_color=24244f&border_radius=1.2em&title_color=d9b74b&count_private=true)
 
   <hr>
   
@@ -78,6 +78,6 @@
     
 <br>
 <div align="center">
-  <a href="#"><img alt="" src="https://gpvc.arturio.dev/Caisesiume"></a>
+  <a href="https://github.com/Caisesiume"><img alt="" src="https://gpvc.arturio.dev/Caisesiume"></a>
   <a href="https://wakatime.com/@ac02e35f-9f9f-4b36-ac88-9dc489ff17ee"><img src="https://wakatime.com/badge/user/ac02e35f-9f9f-4b36-ac88-9dc489ff17ee.svg" alt="Total time coded since Jan 29 2023" /></a>
 </div>
