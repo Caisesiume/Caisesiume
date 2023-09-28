@@ -10,9 +10,9 @@
   <summary align="center">About me </summary>
   <hr>
   
-  <p align="center"> I'm a Swedish guy with a degree in Software Engineering and Management. People describe me as creative, smart, and down-to-earth. Alike a lot of other people, programming and software development started out as a hobby but is now what I do most of my time awake. When I'm not working/studying you might find me playing online games with friends or on my bike. Besides that, I enjoy spending my time on <a href="https://twitch.tv/">Twitch</a>.
+  <p align="center"> I'm a Swedish guy with a degree in Software Engineering and Management. People describe me as creative, smart, and down-to-earth. Alike a lot of other people, programming, and software development started as a hobby but is now what I do most of my time awake. When I'm not working/studying, you might find me playing online games with friends or on my bike. Besides that, I enjoy spending my time on <a href="https://twitch.tv/">Twitch</a>.
 
-  <p align="center">Besides programming, I also have experience with graphic design and animations from studies prior to my degree. I find it fun so it's not uncommon that I do a few side projects in that field every now and again. Adobe Photoshop and Adobe After Effects are the two software I have worked with the most. I have always found it to be super interesting and a dream would be to somehow combine software development with graphic design/animation.</p>
+  <p align="center">Beyond programming, I also have experience with graphic design and animation from studies before my degree. I find it fun, so it's not uncommon that I do a few side projects in that field. Adobe Photoshop and Adobe After Effects are the two software I have worked with the most. I have always found it to be super interesting, and a dream would be to somehow combine software development with graphic design/animation.</p>
 
   <hr>
 </details>
