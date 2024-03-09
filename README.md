@@ -16,11 +16,11 @@ Cool that you are here! Here is a bit about myself. <br>
   <summary>About me </summary>
   <hr>
   
-  <p align="center">
+  <p align="left">
   I'm a Swedish guy with a degree in Software Engineering and Management. People describe me as creative, smart, and down-to-earth. Alike a lot of other people, programming, and software development started as a hobby but is now what I do most of my time awake. When I'm not working, you might find me playing online games with friends or on my bike. Besides that, I enjoy spending my time on <a href="https://twitch.tv/">Twitch</a>.
   </p>
 
-  <p align="center">
+  <p align="left">
   Beyond programming, I also have experience with graphic design and animation from studies before my degree. I enjoy it, so it's not uncommon that I do projects in that field too. Adobe Photoshop and Adobe After Effects are the two software I have worked with the most. I have always found it to be super interesting, and a dream would be to somehow combine software development with graphic design/animation.
   </p>
 
@@ -28,6 +28,8 @@ Cool that you are here! Here is a bit about myself. <br>
 </details>
 <details>
   <summary>Other tech I use</summary>
+  <hr>
+
   
 | **Previously worked with📌** |
 | --- | 
